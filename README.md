@@ -1,5 +1,5 @@
 ### Overview
-
+http://127.0.0.1:3000/index.html
 The purpose of this assignment is to get you comfortable with reading already written code you're unfamiliar with, and let you practice debugging skills.  There are lots of helpful tools in programming that help alert you to something being "not right" in your code.  Before you start working through the Task List below, familiarize yourself with the code.  Try and walk through the code and add comments to help yourself understand what the code is doing currently.  You may even find and fix some bugs by looking through it first!  Then read through the Task List below and use developer tools to find and fix the bugs.  You may find it helpful to do your Mindset Assignment on debugging before starting this assignment.  Find and fix as many bugs as you can this week, and submit your work no matter how far you get with this assignment.  You'll have next week as well to continue working on finding and fixing the bugs/app.
 
 ### Getting Started
